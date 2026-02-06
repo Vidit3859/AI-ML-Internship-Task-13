@@ -75,11 +75,17 @@ PCA reduces feature space while retaining maximum variance, improving efficiency
 ---
 
 ## Interview Questions (Answers)
+
 - What problem does PCA solve?
+
 PCA reduces dataset dimensionality while preserving maximum variance.
+
 - What is explained variance?
+
 It measures how much information from the original dataset is retained by principal components.
+
 - Why is scaling required for PCA?
+
 Because PCA is variance-based. Features with larger scale would dominate without scaling.
 
 ---
